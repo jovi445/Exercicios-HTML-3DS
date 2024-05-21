@@ -1,0 +1,13 @@
+body {
+    background-image: -moz-linear-gradient(to right, aquamarine, blue);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+} 
