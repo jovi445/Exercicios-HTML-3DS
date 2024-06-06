@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Modeseven;
+    src: url(Fontes/Modeseven-L3n5.ttf);
+}
+
+body {
+    background-image: url(Imagens/background.jpg);
+}
+
+.texto_Centralizado {
+    text-align: center;
+    font-family: Modeseven;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    max-width: 50rem;
+    color: #dd4814;
+}
+
+h1 {
+    font-size: 50px;
+}
