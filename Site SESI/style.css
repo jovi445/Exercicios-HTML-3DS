@@ -1,0 +1,14 @@
+body {
+    background-image: url(Imagens/vecteezy_blue-abstract-vector-wallpaper-background-template-geometric_6789457.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.texto_Centralizado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
