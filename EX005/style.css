@@ -1,0 +1,24 @@
+.texto_Centralizado {
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    max-width: 50rem;
+    color: white;
+    border: 2px dashed white;
+    border-radius: 10px;
+}
+
+body {
+    background-image: -moz-linear-gradient(to right, black, purple);
+}
+
+hr {
+    border: none;
+    border-top: 2px dashed white;
+    margin: 20px 0;
+}
+
+.linux {
+    margin-top: 20px;
+    margin-left: 50px;
+}
